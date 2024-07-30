@@ -412,5 +412,11 @@ const awesome = [
         name: "com2m GmbH",
         url: "https://com2m.de/karriere-bei-com2m/",
         locations: ["Dortmund"]
+    },
+    {
+        name: "bilstein group",
+        url: "https://bilsteingroup.com/karrierewelt/",
+        locations: ["Ennepetal", "Wuppertal"],
+        tags: ["python", "java", "linux", "docker", "bitbucket", "api", "frontend", "backend", "devops"]
     }
 ];
